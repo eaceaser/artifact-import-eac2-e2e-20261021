@@ -1,1 +1,1 @@
-Synthetic fixture for the GitHub sync import-artifact staging test.
+Synthetic fixture: second sync must fetch new objects and replace public refs.
